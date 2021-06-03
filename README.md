@@ -1,5 +1,5 @@
 ### Frontend Developer from Chocofamily Holding ❤
 
-- From Kazakhstan 🇰🇿
+- From Aktau, Kazakhstan 🇰🇿
 - Frontend Engineer Vue/React 🌐
 - Interested in iOS development 📱
