@@ -1,4 +1,5 @@
-### from Chocofamily Holding ❤
+### iOS Engineer from Chocofamily Holding ❤
 
-- Ex-frontend Engineer Vue/React 🌐
+- Ex-frontend developer Vue/React 🌐
 - From Aktau, Kazakhstan 🇰🇿
+- Supporting Rahmet iOS application
