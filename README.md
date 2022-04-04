@@ -2,4 +2,4 @@
 
 - Ex-frontend developer Vue/React 🌐
 - From Aktau, Kazakhstan 🇰🇿
-- Supporting Rahmet iOS application
+- Now supporting Rahmet iOS application
